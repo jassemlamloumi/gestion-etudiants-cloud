@@ -1,0 +1,16 @@
+{
+  "name": "gestion-etudiants-cloud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.11"
+  },
+  "description": "",
+  "keywords": [],
+  "type": "commonjs"
+}
